@@ -1,6 +1,27 @@
-# FIER Scaling for Flood Inundation Mapping
+# phd-fier-scaling
 
 This repository contains Python scripts for scaling Flood Inundation Extent from Remote Sensing (FIER) data using hydrological variables, primarily from the National Water Model (NWM). The scripts facilitate the processing, analysis, and prediction of water inundation extents.
+
+If you use this code or the FIER methodology in your research, please consider citing the following paper:
+
+Markert, K. N., Lee, H., Williams, G. P., Nelson, E. J., Ames, D. P., Griffin, R. E., & Meyer, F. J. (2024). Evaluating the Feasibility of Scaling the FIER Framework for Large-Scale Flood Inundation Prediction. EGUsphere, 2024, 1-34. https://doi.org/10.5194/egusphere-2024-3491
+
+```
+@article{
+	title = {Evaluating the {Feasibility} of {Scaling} the {FIER} {Framework} for {Large}-{Scale} {Flood} {Inundation} {Prediction}},
+	url = {https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3491/},
+	doi = {10.5194/egusphere-2024-3491},
+	language = {English},
+	urldate = {2024-11-15},
+	journal = {EGUsphere},
+	author = {Markert, Kel N. and Lee, Hyongki and Williams, Gustavious P. and Nelson, E. James and Ames, Daniel P. and Griffin, Robert E. and Meyer, Franz J.},
+	month = nov,
+	year = {2024},
+	note = {Publisher: Copernicus GmbH},
+	pages = {1--34},
+}
+```
+
 
 ## Project Structure
 
