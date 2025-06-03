@@ -1,0 +1,16 @@
+earthengine-api
+geopandas
+numpy
+shapely
+xarray
+pandas
+s3fs
+dask
+xee
+google-cloud-bigquery
+google-cloud-storage
+HydroErr
+scipy
+matplotlib
+rioxarray
+git+https://github.com/servir/fierpy.git@dev
